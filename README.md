@@ -11,8 +11,8 @@ Rendered are:
 * Gray-scale image (panoramic camera)
 * 16 bit Depth image (panoramic camera, i.e. with equal angle steps per pixel like such as from a laser scanner)
 
-![](https://raw.githubusercontent.com/lightning485/sundae/main/I0001.JPG)
-![](https://raw.githubusercontent.com/lightning485/sundae/main/D0001.JPG)
+![](https://raw.githubusercontent.com/lightning485/sundae/main/I0001.jpg)
+![](https://raw.githubusercontent.com/lightning485/sundae/main/D0001.jpg)
 
 For the panoramic camera, the cycles renderer is used.
 The ice balls are icospheres with high subdivisions.
